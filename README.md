@@ -28,7 +28,7 @@ They include VS Code adapters, a standalone server, session tracking, and persis
 A character animation summarizes observed events.
 It does not certify that a task succeeded, a test passed, or a requested file was produced.
 
-![Pixel Agents office showing several coding sessions with distinct activity indicators](core/q1/jpg)
+![Pixel Agents office showing several coding sessions with distinct activity indicators](core/q1.jpg)
 
 ## Requirements
 
@@ -135,7 +135,7 @@ Prefer a readable layout before adding decorative complexity.
 The [layoutPersistence.ts](server/src/layoutPersistence.ts) component reads and writes the saved layout.
 The [configPersistence.ts](server/src/configPersistence.ts) component stores application preferences and provider consent state.
 
-![Pixel Agents custom office with clearly separated work areas and labeled characters](core/qq2/jpg)
+![Pixel Agents custom office with clearly separated work areas and labeled characters](core/qq2.jpg)
 
 ### Office assets
 
